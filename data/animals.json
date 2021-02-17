@@ -117,6 +117,17 @@
         "Hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Indie",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
